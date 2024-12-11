@@ -1,6 +1,27 @@
 [
   {
     "children": {
+      "improvements": ["Update sql and types."]
+    },
+    "date": "2024-12-11",
+    "version": "1.36.12"
+  },
+  {
+    "children": {
+      "improvements": ["Refactor data importer to repos."]
+    },
+    "date": "2024-12-11",
+    "version": "1.36.11"
+  },
+  {
+    "children": {
+      "improvements": ["Clean the gpt-4-vision-preview models."]
+    },
+    "date": "2024-12-10",
+    "version": "1.36.10"
+  },
+  {
+    "children": {
       "improvements": ["Refactor the clerk user service implement."],
       "fixes": ["Nullptr errors in NextAuth adapter."]
     },

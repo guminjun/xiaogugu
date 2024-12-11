@@ -2,6 +2,81 @@
 
 # Changelog
 
+### [Version 1.36.12](https://github.com/lobehub/lobe-chat/compare/v1.36.11...v1.36.12)
+
+<sup>Released on **2024-12-11**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Update sql and types.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Update sql and types, closes [#4979](https://github.com/lobehub/lobe-chat/issues/4979) ([8243f01](https://github.com/lobehub/lobe-chat/commit/8243f01))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.36.11](https://github.com/lobehub/lobe-chat/compare/v1.36.10...v1.36.11)
+
+<sup>Released on **2024-12-11**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refactor data importer to repos.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refactor data importer to repos, closes [#4974](https://github.com/lobehub/lobe-chat/issues/4974) ([0259fec](https://github.com/lobehub/lobe-chat/commit/0259fec))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.36.10](https://github.com/lobehub/lobe-chat/compare/v1.36.9...v1.36.10)
+
+<sup>Released on **2024-12-10**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Clean the `gpt-4-vision-preview` models.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Clean the `gpt-4-vision-preview` models, closes [#4967](https://github.com/lobehub/lobe-chat/issues/4967) ([7094ea6](https://github.com/lobehub/lobe-chat/commit/7094ea6))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.36.9](https://github.com/lobehub/lobe-chat/compare/v1.36.8...v1.36.9)
 
 <sup>Released on **2024-12-10**</sup>
