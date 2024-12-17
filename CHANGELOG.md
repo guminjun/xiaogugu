@@ -2,6 +2,81 @@
 
 # Changelog
 
+### [Version 1.36.31](https://github.com/lobehub/lobe-chat/compare/v1.36.30...v1.36.31)
+
+<sup>Released on **2024-12-17**</sup>
+
+#### ♻ Code Refactoring
+
+- **misc**: Refactor the data fetch with clientDB init check.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Code refactoring
+
+- **misc**: Refactor the data fetch with clientDB init check, closes [#5049](https://github.com/lobehub/lobe-chat/issues/5049) ([e6d2e09](https://github.com/lobehub/lobe-chat/commit/e6d2e09))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.36.30](https://github.com/lobehub/lobe-chat/compare/v1.36.29...v1.36.30)
+
+<sup>Released on **2024-12-16**</sup>
+
+#### 💄 Styles
+
+- **misc**: Improve page loading state.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Improve page loading state, closes [#5048](https://github.com/lobehub/lobe-chat/issues/5048) ([e63249b](https://github.com/lobehub/lobe-chat/commit/e63249b))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.36.29](https://github.com/lobehub/lobe-chat/compare/v1.36.28...v1.36.29)
+
+<sup>Released on **2024-12-16**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix discover locale with different default lang.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix discover locale with different default lang, closes [#5045](https://github.com/lobehub/lobe-chat/issues/5045) ([915827e](https://github.com/lobehub/lobe-chat/commit/915827e))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.36.28](https://github.com/lobehub/lobe-chat/compare/v1.36.27...v1.36.28)
 
 <sup>Released on **2024-12-16**</sup>
