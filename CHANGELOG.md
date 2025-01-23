@@ -2,6 +2,81 @@
 
 # Changelog
 
+### [Version 1.47.19](https://github.com/lobehub/lobe-chat/compare/v1.47.18...v1.47.19)
+
+<sup>Released on **2025-01-23**</sup>
+
+#### 💄 Styles
+
+- **misc**: Add new stepfun model.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### Styles
+
+- **misc**: Add new stepfun model, closes [#5560](https://github.com/lobehub/lobe-chat/issues/5560) ([6e027e8](https://github.com/lobehub/lobe-chat/commit/6e027e8))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.47.18](https://github.com/lobehub/lobe-chat/compare/v1.47.17...v1.47.18)
+
+<sup>Released on **2025-01-23**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Fix debounce issue of provider config.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Fix debounce issue of provider config, closes [#5557](https://github.com/lobehub/lobe-chat/issues/5557) ([c971530](https://github.com/lobehub/lobe-chat/commit/c971530))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
+### [Version 1.47.17](https://github.com/lobehub/lobe-chat/compare/v1.47.16...v1.47.17)
+
+<sup>Released on **2025-01-22**</sup>
+
+#### 🐛 Bug Fixes
+
+- **misc**: Upgrade `react-i18next` to ^15.
+
+<br/>
+
+<details>
+<summary><kbd>Improvements and Fixes</kbd></summary>
+
+#### What's fixed
+
+- **misc**: Upgrade `react-i18next` to ^15, closes [#5553](https://github.com/lobehub/lobe-chat/issues/5553) ([d0275fd](https://github.com/lobehub/lobe-chat/commit/d0275fd))
+
+</details>
+
+<div align="right">
+
+[![](https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square)](#readme-top)
+
+</div>
+
 ### [Version 1.47.16](https://github.com/lobehub/lobe-chat/compare/v1.47.15...v1.47.16)
 
 <sup>Released on **2025-01-22**</sup>
